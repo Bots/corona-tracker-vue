@@ -12,7 +12,7 @@
     "mapbox-gl": "^1.9.0",
     "vue": "^2.6.11",
     "vue-mapbox": "^0.4.1",
-    "vuetify": "^2.2.11"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
